@@ -1,0 +1,16 @@
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\bin\Debug\frm_Ini.exe.config
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\bin\Debug\frm_Ini.exe
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\bin\Debug\frm_Ini.pdb
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.csprojResolveAssemblyReference.cache
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.Properties.Resources.resources
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.csproj.GenerateResource.Cache
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.exe
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.pdb
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.frm_Ini.resources
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.GUI.frm_Ses.resources
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.GUI.frm_Inv_Soft.resources
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.GUI.Robo_de_equipo.resources
+C:\Users\Usuario.ATHENEA\Desktop\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.GUI.frm_Eq.resources
+C:\Users\Usuario\Documents\Proyecto Integrador\Diseño\frm_Ini\bin\Debug\frm_Ini.exe.config
+C:\Users\Usuario\Documents\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.exe
+C:\Users\Usuario\Documents\Proyecto Integrador\Diseño\frm_Ini\obj\Debug\frm_Ini.pdb
